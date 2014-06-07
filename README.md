@@ -18,7 +18,7 @@ module: {
 }
 ```
 
-Require dogescript from plain JavaScript:
+Then require dogescript from plain JavaScript:
 
 ```js
 var doge = require('./lib/doge.djs');
@@ -27,7 +27,7 @@ var wow = doge.amaze();
 ```
 
 
-Require dogescript from dogescript
+Or even better, require dogescript from dogescript:
 
 ```djs
 so doge.djs as doge

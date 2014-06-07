@@ -1,7 +1,7 @@
 {
   "name": "dogescript-loader",
-  "description": "much require dogescript, such node",
-  "version": "0.1.0",
+  "description": "so webpack, much dogescript",
+  "version": "0.1.1",
   "homepage": "https://github.com/Bartvds/dogescript-loader",
   "author": {
     "name": "Bart van der Schoor",
