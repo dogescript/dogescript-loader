@@ -4,6 +4,7 @@
 
 > Bundle [dogescript](https://github.com/remixz/dogescript) files in [webpack](https://github.com/webpack/webpack)
 
+![wow](https://raw.github.com/Bartvds/dogescript-loader/master/media/doge-01.jpg)
 
 ## Usage
 
