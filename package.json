@@ -34,7 +34,7 @@
   },
   "scripts": {
     "prepublish": "node node_modules/dogescript/bin/dogescript index.djs --beautify > index.js",
-    "test": "node test/test.js"
+    "test": "node node_modules/dogescript/bin/dogescript test/run.djs --beautify > test/run.js && node test/run"
   },
   "dependencies": {
     "loader-utils": "^0.2.2"

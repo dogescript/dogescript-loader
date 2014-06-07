@@ -4,3 +4,4 @@
 /*.log
 /*.js
 /test/tmp
+/test/*.js
