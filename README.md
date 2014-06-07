@@ -8,7 +8,7 @@
 
 ## Usage
 
-Add to the weebpack config:
+First the loader to the [webpack config](https://webpack.github.io/docs/configuration.html):
 
 ```js
 module: {
@@ -18,7 +18,7 @@ module: {
 }
 ```
 
-Use from plain JavaScript:
+Require dogescript from plain JavaScript:
 
 ```js
 var doge = require('./lib/doge.djs');
@@ -27,14 +27,15 @@ var wow = doge.amaze();
 ```
 
 
-From dogescript:
+Require dogescript from dogescript
 
 ```djs
 so doge.djs as doge
 
-var wow = doge.amaze();
+very wow is plz doge.amaze
 ```
-
+ 
+For the same in serverside node.js see [require-doge](https://github.com/bartvds/require-doge).
 
 ## Install
 
