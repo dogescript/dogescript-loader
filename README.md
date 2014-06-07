@@ -28,7 +28,7 @@ var wow = doge.amaze();
 
 From dogescript:
 
-```js
+```djs
 so doge.djs as doge
 
 var wow = doge.amaze();
@@ -38,7 +38,7 @@ var wow = doge.amaze();
 ## Install
 
 ````
-npm install dogescript-loader --save-dev`
+npm install dogescript-loader --save-dev
 ````
 
 
