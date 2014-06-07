@@ -46,6 +46,7 @@ npm install dogescript-loader --save-dev
 
 ## History
 
+* 0.1.2 - Fix doge
 * 0.1.0 - Top doge
 
 
