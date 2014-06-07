@@ -1,0 +1,6 @@
+/.idea
+/node_modules
+/*.tgz
+/*.log
+/*.js
+/test/tmp

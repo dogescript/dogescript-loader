@@ -1,0 +1,11 @@
+/.idea
+/node_modules
+/*.tgz
+/*.log
+/test
+/.travis.yml
+/.npmignore
+/.gitignore
+/media
+
+/*.djs
