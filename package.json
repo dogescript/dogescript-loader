@@ -1,23 +1,23 @@
 {
   "name": "dogescript-loader",
   "description": "so webpack, much dogescript",
-  "version": "0.1.2",
-  "homepage": "https://github.com/Bartvds/dogescript-loader",
+  "version": "0.1.3",
+  "homepage": "https://github.com/dogescript/dogescript-loader",
   "author": {
     "name": "Bart van der Schoor",
     "url": "https://github.com/Bartvds"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Bartvds/dogescript-loader"
+    "url": "https://github.com/dogescript/dogescript-loader"
   },
   "bugs": {
-    "url": "https://github.com/Bartvds/dogescript-loader/issues"
+    "url": "https://github.com/dogescript/dogescript-loader/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/Bartvds/dogescript-loader/blob/master/LICENSE-MIT"
+      "url": "https://github.com/dogescript/dogescript-loader/blob/master/LICENSE-MIT"
     }
   ],
   "keywords": [

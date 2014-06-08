@@ -1,10 +1,10 @@
 # dogescript-loader
 
-[![Build Status](https://secure.travis-ci.org/Bartvds/dogescript-loader.svg?branch=master)](http://travis-ci.org/Bartvds/dogescript-loader) [![Dependency Status](https://gemnasium.com/Bartvds/dogescript-loader.svg)](https://gemnasium.com/Bartvds/dogescript-loader) [![NPM version](https://badge.fury.io/js/dogescript-loader.svg)](http://badge.fury.io/js/dogescript-loader)
+[![Build Status](https://secure.travis-ci.org/dogescript/dogescript-loader.svg?branch=master)](http://travis-ci.org/dogescript/dogescript-loader) [![Dependency Status](https://gemnasium.com/dogescript/dogescript-loader.svg)](https://gemnasium.com/dogescript/dogescript-loader) [![NPM version](https://badge.fury.io/js/dogescript-loader.svg)](http://badge.fury.io/js/dogescript-loader)
 
-> Bundle [dogescript](https://github.com/remixz/dogescript) files in [webpack](https://github.com/webpack/webpack)
+> Bundle [dogescript](https://github.com/dogescript/dogescript) files in [webpack](https://github.com/webpack/webpack)
 
-![wow](https://raw.github.com/Bartvds/dogescript-loader/master/media/doge-01.jpg)
+![wow](https://raw.github.com/dogescript/dogescript-loader/master/media/doge-01.jpg)
 
 ## Usage
 
@@ -35,7 +35,7 @@ so doge.djs as doge
 very wow is plz doge.amaze
 ```
  
-For the same in serverside node.js see [require-doge](https://github.com/bartvds/require-doge).
+For the same in serverside node.js see [require-doge](https://github.com/dogescript/require-doge).
 
 ## Install
 
@@ -46,6 +46,7 @@ npm install dogescript-loader --save-dev
 
 ## History
 
+* 0.1.3 - Moved to dogescript org
 * 0.1.2 - Fix doge
 * 0.1.0 - Top doge
 
