@@ -1,6 +1,6 @@
 # dogescript-loader
 
-[![Build Status](https://secure.travis-ci.org/dogescript/dogescript-loader.svg?branch=master)](http://travis-ci.org/dogescript/dogescript-loader) [![Dependency Status](https://gemnasium.com/dogescript/dogescript-loader.svg)](https://gemnasium.com/dogescript/dogescript-loader) [![NPM version](https://badge.fury.io/js/dogescript-loader.svg)](http://badge.fury.io/js/dogescript-loader)
+[![Build Status](https://secure.travis-ci.org/dogescript/dogescript-loader.svg?branch=master)](http://travis-ci.org/dogescript/dogescript-loader) [![Dependency Status](https://david-dm.org/dogescript/dogescript-loader.svg)](https://david-dm.org/dogescript/dogescript-loader) [![NPM version](https://badge.fury.io/js/dogescript-loader.svg)](http://badge.fury.io/js/dogescript-loader)
 
 > Bundle [dogescript](https://github.com/dogescript/dogescript) files in [webpack](https://github.com/webpack/webpack)
 
