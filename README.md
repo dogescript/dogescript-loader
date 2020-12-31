@@ -46,6 +46,7 @@ npm install dogescript-loader --save-dev
 
 ## History
 
+* 2.4.0 - support dogescript 2.4.0
 * 0.1.3 - Moved to dogescript org
 * 0.1.2 - Fix doge
 * 0.1.0 - Top doge

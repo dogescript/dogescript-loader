@@ -1,7 +1,7 @@
 so loader-utils as utils
 so dogescript
 
-module.exports is such fun much content
+woof such fun much content
     plz this.cacheable
 
     very opt is plz utils.parseQuery with this.query
