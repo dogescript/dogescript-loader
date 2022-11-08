@@ -37,7 +37,7 @@
     "test": "node node_modules/dogescript/dist/dogescript.bin.js test/run.djs --beautify > test/run.js && node test/run"
   },
   "dependencies": {
-    "loader-utils": "^0.2.2",
+    "loader-utils": "^1.4.1",
     "dogescript": "2.4.0"
   },
   "devDependencies": {
